@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(255, 127, 144);
+}
+#background{
+    opacity: 0.2;
+}
+#nav{
+    font-size: 20px;
+    display: flex;
+    float: right;
+
+}
+#one{
+    padding: 40px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+#text{
+    text-align: center;
+}
+.style{
+    display: flex;
+    margin-top: 50px;
+}
+.photo1{
+    background-color: rgb(255, 127, 144) ;
+}
+.photo2{
+    background-color: rgb(255, 127, 144) ;
+}
+.photo3{
+    background-color: rgb(255, 127, 144) ;
+}
